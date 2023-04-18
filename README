@@ -1,0 +1,14 @@
+Here In this Assigment the task assigned is to Makerecreate a web page similar to the png file provided and must be mobnile responsive.
+TECH stack used : HTML5 , CSS3 , Bootstrap V4.5
+As the file provided is of png (figma wire frame not provided) , the Icons used in the web page must of samne as the in the file.
+So, I have taken snippets and uploaded it to the cloudinary website where it will create an url link for the respective image so that the same url link can be used in the "src attribute" and also used "alt attribute" for the image which shows when the image loading is failed due to network isse or anything else. 
+Used Bootstrap Grid system to make the page responsive and also included bootstrap CDN in the head element of the file.
+Used https://redketchup.io/color-picker for extracting Color Hex codes used in the file provided
+Used cloudinary for generating the links of the icons
+If Mobile view file provided it would be help full.
+iF I Would have few more hourse i would iot perfectly.
+
+Below are some of my works where i have done using the HTML,CSS,Bootstrap and the below blogs are responsive and done these during my internship period at a company at Hyderabad.
+https://codetru.com/mobile-app-stack
+https://codetru.com/on-premise-vs-cloud
+https://codetru.com/aws-cloud-migration-approach.
